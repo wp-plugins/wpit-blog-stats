@@ -1,0 +1,92 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2015-03-31 20:59+0100\n"
+"PO-Revision-Date: 2015-03-31 21:09+0100\n"
+"Last-Translator: wolly (paolo valenti) <wolly66@gmail.com>\n"
+"Language-Team: WP Italy team <wolly66@gmail.com>\n"
+"Language: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.5\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: wpit-blog-stats.php:271
+msgid "Wpit Stats Settings - version: "
+msgstr "Impostazioni wpit stats - versione: "
+
+#: wpit-blog-stats.php:290
+msgid "There are stats for the following years: "
+msgstr "Ci sono statistiche per i seguenti anni:"
+
+#: wpit-blog-stats.php:292
+msgid ""
+"<p>Use this shortcode in posts or pages, to show all years:\n"
+"<strong> [wpitstats year=\"all\"]</strong></p>"
+msgstr ""
+"<p>Utilizza questo shortcose, in articoli o pagine, per mostrare tutti gli "
+"anni:\n"
+"<strong> [wpitstats year=\"all\"]</strong></p>"
+
+#: wpit-blog-stats.php:295
+msgid ""
+"<p>Use the following shortcodes in posts or pages, to show stats for "
+"specific year.</p>"
+msgstr ""
+"<p>Utilizza i seguenti shortcode, in articoli o pagine, per mostrare un anno "
+"in particolare.</p>"
+
+#: wpit-blog-stats.php:314
+msgid "There are NO stats for the following years, please create stats."
+msgstr "Non ci sono  statistiche per i seguenti anni, crea le statistische."
+
+#: wpit-blog-stats.php:331
+msgid "<h3 class=\"stats_red\">No stats, yet. Please create stats</h3>"
+msgstr "<h3 class=\"stats_red\">Non ci sono dati. Crea le statistische</h3>"
+
+#: wpit-blog-stats.php:341
+msgid "<h3>Help</h3>"
+msgstr "<h3>Aiuto</h3>"
+
+#: wpit-blog-stats.php:343
+msgid ""
+"<p>You can copy the following code and then add to yours CSS theme, to have "
+"a reponsive table or copy the sample.css that you can find in the css plugin "
+"directory</p>"
+msgstr ""
+"<p>Puoi copiare il codice che segue e poi aggiungerlo al foglio stile del "
+"tuo tema per avere una tabella responsive, oppure copia il file sample.css "
+"che trovi nella cartella css del plugin.</p>"
+
+#: wpit-blog-stats.php:410
+msgid "Year"
+msgstr "Anno"
+
+#: wpit-blog-stats.php:411
+msgid "Nr. Post"
+msgstr "Nr.articoli"
+
+#: wpit-blog-stats.php:412
+msgid "Avg post character"
+msgstr "Media caratteri per articolo"
+
+#: wpit-blog-stats.php:413
+msgid "Tot post character"
+msgstr "Caratteri tot per articolo"
+
+#: wpit-blog-stats.php:414
+msgid "Avg Comments"
+msgstr "Media commenti"
+
+#: wpit-blog-stats.php:415
+msgid "Tot Comments"
+msgstr "Commenti totali"
+
+#: wpit-blog-stats.php:465
+msgid "Sorry, no data"
+msgstr "Nessun dato"
