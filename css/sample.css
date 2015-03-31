@@ -1,0 +1,14 @@
+/*
+ * You can copy this css to your theme style.css
+ * You will have a responsive table for front end rendering
+ *
+ */
+
+/* div stats table container */
+.table-stats-responsive {width: 98%; padding-left: 10px;}
+
+/* table stats border style */
+.table-stats-responsive table {border: #ccc solid 1px;}
+
+/* th and td */
+.table-stats-responsive table td, .table-stats-responsive table th {min-width: 50px; width: 16.5%; border: #ccc solid 1px; word-break: break-all; text-align: center; padding: 1%;}

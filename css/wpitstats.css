@@ -1,0 +1,39 @@
+/*
+ * Admin CSS for Wpit stats plugin
+ *
+ */
+
+
+#years_list{
+	overflow: hidden;
+	height: 100%; /* IE6 */
+}
+
+.single_year{
+
+	float: left;
+	width: 33.3%;
+}
+
+.stats_red{
+
+	color: #ff0000;
+}
+
+#years_no_list{
+	overflow: hidden;
+	height: 100%; /* IE6 */
+}
+
+.single_no_year{
+
+	float: left;
+	width: 33.3%;
+	background-color: #ff0000;
+	color: #ffffff;
+	font-size: 1.5em;
+	padding: 5px;
+	text-align: center;
+
+}
+
